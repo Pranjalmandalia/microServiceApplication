@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d40b6a-9e2a-4c37-81c5-2cb9738f9d23" name="Changes" comment="">
+    <list default="true" id="48d40b6a-9e2a-4c37-81c5-2cb9738f9d23" name="Changes" comment="Changed packaging to war">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiGateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiGateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discoveryService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discoveryService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventoryService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orderService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orderService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryService/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryService/controller/InventoryController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661255915742</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed packaging to war">
+      <created>1671397287864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671397287864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changed packaging to war" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed packaging to war" />
   </component>
 </project>
